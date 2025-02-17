@@ -1,4 +1,4 @@
 # PROJETO DE SOFTWARE  *Extensão
-### P.O.O  
+### P.O.O.  
 ### B.D.
-### ENG.SOF.
+### ENG. SOF.
