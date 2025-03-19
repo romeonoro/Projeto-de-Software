@@ -1,3 +1,8 @@
+---
+Até a PRÓXIMA SEGUNDA 24/03
+- Fazer Descrição de Caso de Uso.
+- Fazer Modelo de Domínio.
+---
 # JAVA SWING
 
 ## Funcionalidades
