@@ -1,7 +1,7 @@
 ---
 Até a PRÓXIMA SEGUNDA 24/03
 - Fazer Descrição de Caso de Uso.
-- Fazer Modelo de Domínio.
+- Fazer Modelo de Domínio. (Diagrama de Classes)
 ---
 # JAVA SWING
 
